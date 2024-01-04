@@ -1,6 +1,6 @@
 # VuePosts
-
-
+Посмотреть функционал можно по <a href="https://vue-posts-one.vercel.app" targer="_blank">ссылке</a>
+![](demonstration.gif)
 
 ## Демонстрация навыков
 
